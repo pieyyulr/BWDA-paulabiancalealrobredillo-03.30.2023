@@ -1,0 +1,31 @@
+{
+    "products" : [
+        {
+            "name" : "Newborn Gift Set",
+            "brand" : "Disney Baby",
+            "description" : "best for newborn gift ideas",
+            "price" : "P 480.00"
+        },
+
+        {
+            "name" : "",
+            "brand" : "",
+            "description" : "",
+            "price" : ""
+        },
+
+        {
+            "name" : "",
+            "brand" : "",
+            "description" : "",
+            "price" : ""
+        },
+
+        {
+            "name" : "",
+            "brand" : "",
+            "description" : "",
+            "price" : ""
+        }
+    ]
+}
